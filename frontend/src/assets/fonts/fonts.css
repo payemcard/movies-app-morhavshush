@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'ploni';
+    src: url('./ploni-regular-aaa.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ploni-black';
+    src: url('./ploni-black-aaa.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ploni-bold';
+    src: url('./ploni-bold-aaa.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ploni-demibold';
+    src: url('./ploni-demibold-aaa.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ploni-light';
+    src: url('./ploni-light-aaa.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ploni-medium';
+    src: url('./ploni-medium-aaa.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ploni-ultrabold';
+    src: url('./ploni-ultrabold-aaa.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ploni-ultralight';
+    src: url('./ploni-ultralight-aaa.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
